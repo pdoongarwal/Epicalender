@@ -1,0 +1,30 @@
+body
+{
+	background-color: #eee;
+}
+#UserProfile
+{  
+   margin-top: 100px;
+   margin-left:100px;
+   width: 35%;
+   height: 540px;
+   box-shadow: 5px 5px 5px #888888;
+}
+#MiniProfile
+{
+	height: 180px;
+	width : 100%;
+}
+#ShowsFollowed
+{
+	height: 180px;
+	width : 100%;
+	border-top: 1px solid grey;	
+}
+#TrendingShows
+{
+	height: 180px;
+	width : 100%;
+	border-top: 1px grey solid ;	
+}
+
